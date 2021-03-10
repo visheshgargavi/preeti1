@@ -1,3 +1,4 @@
-my test space
-hii hru??
-how's u doing
+echo "this is test"
+date
+cal
+echo "bye"
